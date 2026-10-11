@@ -2,7 +2,7 @@
   if (window.__sangeetInviteInit) return;
   window.__sangeetInviteInit = true;
 
-  const TARGET = new Date("2026-10-30T20:00:00+05:30").getTime();
+  const TARGET = new Date("2026-11-01T10:30:00+05:30").getTime();
 
   // Initialize your custom audio
   const backgroundPath = new Audio('audio/Path.mp3');
